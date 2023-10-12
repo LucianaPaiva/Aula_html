@@ -1,1 +1,5 @@
-style colgroup
+.container-links {
+    padding: 10px;
+    display: flexbox;
+    text-decoration: none;
+}
